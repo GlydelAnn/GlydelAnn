@@ -1,10 +1,10 @@
 # Hello, I'm Gly!
 
 ### Socials: 
-<a href="https://www.instagram.com/jurielcomia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/juriel-comia-49769525a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/juriel.comia.7"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.facebook.com/juriel.comia.7"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.instagram.com/glyyydelann_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/glydel-ann-reyes-341b9927b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://web.facebook.com/glydelannreyes.9"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://web.facebook.com/glydelannreyes.9"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <br>
 ### How to reach me: 
-<a href="mailto: juriel.ucomia@gmail.com">
+<a href="mailto: glydelann.reyes@g.batstate-u.edu.ph">
 <img src="https://img.shields.io/badge/gmail-7B83EB?&style=for-the-badge&logo=gmail&color=D14836&logoColor=white" ></a>
 
 ### Current Status Quo:
