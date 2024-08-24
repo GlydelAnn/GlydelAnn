@@ -1,9 +1,3 @@
-<div align="center">
-    <a href="https://github.com/JurielUC">
-        <img src="assets/logo.png" alt="Logo" width="200">
-    </a>
-</div>
-
 # Hello, I'm Juriel!
 
 ### Socials: 
